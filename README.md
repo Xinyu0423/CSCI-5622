@@ -9,6 +9,7 @@ A
 ## Note for This Class
 1. This was probably one of the hardest classes I took in graduate school. Each assignment in this class is a lot of work, but you can usually learn a lot from each assignment, like the logic behind each model/classifier. I usually spend 30-45 hours per assignment, so it's best to take this class when you're not busy. Overall, this class is great if you are interested in machine learning.
 2. This class requires you to have some calculus/linear algebra background. For me, I forgot a lot of my undergraduate calculus knowledge, so when I learned some calculus-related content, I felt a little difficult (for example, when I was learning backpropagation, I watched the lecture video 5 times but still couldn't understand how it works)
+3. Because the contents of the exam folder may offend the professor's class, I deleted the contents of the exam folder
 
 ## Note
 1. This repo is for me to store my work for this class. So please **DO NOT** use it for plagiarism. Thus If you check out my work, please use it only as a way to get inspiration. Again, **DO NOT** use it for plagiarism.
